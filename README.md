@@ -1,2 +1,2 @@
 # project_3
-Group project
+Group project -Alvi
